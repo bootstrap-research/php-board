@@ -41,5 +41,6 @@ if(isset($_POST['email']) && isset($_POST['pw'])
 
 
 } else {
-    header("Location: ../viwelogin.php?error-Enter the User name or password&email=$email");
+    header("Location: ../viwelogin.php?error=Enter the User name or password&email=$email");
 }
+?>
