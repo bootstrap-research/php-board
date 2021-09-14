@@ -1,0 +1,41 @@
+<html>
+<head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
+        rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+   <title>Login - Blog</title>
+   <meta charset="utf-8">
+</head>
+    <body>
+
+            <div style="min-width: 450px" class="rounded-3 border border-1 border-dark w-25 p-5 position-absolute top-50 start-50 translate-middle">
+
+                <form action="../auth/loginAuth.php" method="post">
+
+                    <h3 class="mb-2">Log in</h3>
+
+                        <div class="form-floating mb-2">
+                            <input type="email" class="form-control rounded-3" id="floatingInput" placeholder="name@example.com">
+                            <label for="floatingInput">Email address</label>
+                        </div>
+
+                        <div class="form-floating mb-2">
+                            <input type="password" class="form-control rounded-3" id="floatingPassword" placeholder="Password">
+                            <label for="floatingPassword">Password</label>
+                        </div>
+
+                        <div class="row">
+                            <button type="submit" class="btn btn-dark col ms-3">Log in</button>
+                            <a href="sign_up.php" class="btn btn-dark col ms-2 me-3">Sign up</a>
+                        </div>
+
+                        <div class="form-check mt-1">
+                            <input class="form-check-input" type="checkbox"  id="flexCheckDefault">
+                            <label class="form-check-label" for="flexCheckDefault">Remember Me!</label>
+                        </div>
+                </form>
+
+            </div>
+
+
+</body>
+</html>
