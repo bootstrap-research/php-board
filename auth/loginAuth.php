@@ -4,12 +4,12 @@ session_start();
 require "../config/db_connect.php";
 
 
-if(isset($_POST['email']) && isset($_POST['pw']) 
-    && !empty($_POST['email']) && !empty($_POST['pw'])) {
+if(isset($_POST['email']) && isset($_POST['passowrd']) 
+    && !empty($_POST['email']) && !empty($_POST['password'])) {
 
 
     $email = $_POST['email'];
-    $pw = $_POST['pw'];
+    $pw = $_POST['password'];
 
     
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -26,7 +26,7 @@ if(isset($_POST['email']) && isset($_POST['pw'])
 
 
         if ($email === $user_email) {
-            if ($pw === $user_password) {
+            if ($password === $user_password) {
                 $_SESSION['user_email'] = $user_email;
                 $_SESSION['user_name'] = $user_name;
 

@@ -6,7 +6,7 @@
    <title>Main - Blog</title>
    <meta charset="utf-8">
 </head>
-<body style="background-color:black " class="">
+<body class="">
     
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light">

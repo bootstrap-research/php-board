@@ -2,8 +2,8 @@
 
 $db_host = "localhost";
 $db_user = "root";
-$db_name = "php_board";
-$db_password = "1234";
+$db_name = "post_board";
+$db_password = "";
 
 $dsn = "mysql:host=$db_host;dbname=$db_name;";
 

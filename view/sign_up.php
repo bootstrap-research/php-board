@@ -6,16 +6,16 @@
    <meta charset="utf-8">
 </head>
     <body>
-        <form action="../auth/sign_upAuth.php" method="post">
+        <form action="../auth/signupAuth.php" method="post">
 
             <div style="min-width: 450px" class="rounded-3 border bordr-1 shadow-lg w-25 p-5 position-absolute top-50 start-50 translate-middle">
 
                 <h3 class="mb-2">Sign up</h3>
 
                     <div class="form-floating mb-2">
-                        <input type="UserId" class="form-control" name="UserId" 
+                        <input type="text" class="form-control" name="username" 
                             id="floatingUserId" placeholder="UserId" required="required">
-                        <label for="floatingUserId">User Id</label>
+                        <label for="floatingUserId">UserName</label>
                     </div>
 
                     <div class="form-floating mb-2">
