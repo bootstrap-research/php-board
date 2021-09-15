@@ -20,18 +20,20 @@
                     <h3 class="mb-2">Log in</h3>
 
                         <div class="form-floating mb-2">
-                            <input type="email" class="form-control rounded-3" id="floatingInput" placeholder="name@example.com">
+                            <input type="email" class="form-control rounded-3" required="required" 
+                            id="floatingInput" placeholder="name@example.com" name="email">
                             <label for="floatingInput">Email address</label>
                         </div>
 
                         <div class="form-floating mb-2">
-                            <input type="password" class="form-control rounded-3" id="floatingPassword" placeholder="Password">
+                            <input type="password" class="form-control rounded-3" required="required" 
+                            id="floatingPassword" placeholder="Password" name="pwd">
                             <label for="floatingPassword">Password</label>
                         </div>
 
                         <div class="row">
                             <button type="submit" class="btn btn-dark col ms-3">Log in</button>
-                            <a href="sign_up.php" class="btn btn-dark col ms-2 me-3">Sign up</a>
+                            <a href="signup.php" class="btn btn-dark col ms-2 me-3">Sign up</a>
                         </div>
 
                         <div class="form-check mt-1">

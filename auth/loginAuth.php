@@ -4,43 +4,42 @@ session_start();
 require "../config/db_connect.php";
 
 
-if(isset($_POST['email']) && isset($_POST['passowrd']) 
-    && !empty($_POST['email']) && !empty($_POST['password'])) {
+if(isset($_POST["email"]) && isset($_POST["pwd"]) 
+    && !empty($_POST["email"]) && !empty($_POST["pwd"])) {
 
 
-    $email = $_POST['email'];
-    $pw = $_POST['password'];
+    $email = $_POST["email"];
+    $pw = $_POST["pwd"];
 
     
-    if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
-
-        $sql = "SELECT * FROM users WHERE Email = :email";
-        $stmt = $conn -> prepare($sql);
-        $stmt -> execute(array(':email' => $email));
+    if (filter_var($email, FILTER_VALIDATE_EMAIL)) { //Email 구문 검사
+ 
+        $stmt = $conn -> prepare("SELECT * FROM users WHERE email = :email");
+        $stmt -> execute(array(":email" => $email));
         $user = $stmt -> fetch();
 
 
-        $user_email = $user['Email'];
-        $user_password = $user['password'];
-        $user_name = $user['name'];
+        $email = $user["Email"];
+        $pwd = $user["pwd"];
+        $username = $user["name"];
 
 
         if ($email === $user_email) {
-            if ($password === $user_password) {
-                $_SESSION['user_email'] = $user_email;
-                $_SESSION['user_name'] = $user_name;
+            if ($pwd === $pwd) {
+                $_SESSION["email"] = $email;
+                $_SESSION["username"] = $username;
 
                 header("Location: ../index.php");
             }
         }
         
     } else {
-        header("Location: ../view/login.php?error=Incorrect User name or password&email=$email");
+        header("Location: ../view/login.php ?error=Incorrect User name or password&email=$email");
 
     }
 
 
 } else {
-    header("Location: ../viwelogin.php?error=Enter the User name or password&email=$email");
+    header("Location: ../view/login.php ?error=Enter the User name or password&email=$email");
 }
 ?>
