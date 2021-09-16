@@ -10,9 +10,9 @@
 </head>
 <body>
 
-    <form action="../config/writesave.php" method="post">
+    <form action="../config/writesave.php">
 
-		<div id="editor" name="contents">글을 써주세요!</div>
+		<div id="editor">글을 써주세요!</div>
 
 			<script src="https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js"></script>
 
