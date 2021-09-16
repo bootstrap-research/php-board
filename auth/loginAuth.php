@@ -9,7 +9,7 @@ if(isset($_POST["email"]) && isset($_POST["pwd"])
 
 
     $email = $_POST["email"];
-    $pw = $_POST["pwd"];
+    $pwd = $_POST["pwd"];
 
     
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) { //Email 구문 검사
@@ -24,7 +24,7 @@ if(isset($_POST["email"]) && isset($_POST["pwd"])
         $username = $user["name"];
 
 
-        if ($email === $user_email) {
+        if ($email === $email) {
             if ($pwd === $pwd) {
                 $_SESSION["email"] = $email;
                 $_SESSION["username"] = $username;
@@ -34,12 +34,12 @@ if(isset($_POST["email"]) && isset($_POST["pwd"])
         }
         
     } else {
-        header("Location: ../view/login.php ?error=Incorrect User name or password&email=$email");
+        header("Location: ../view/login.php?error=Incorrect User name or password&email=$email");
 
     }
 
 
 } else {
-    header("Location: ../view/login.php ?error=Enter the User name or password&email=$email");
+    header("Location: ../view/login.php?error=Enter the User name or password&email");
 }
 ?>
