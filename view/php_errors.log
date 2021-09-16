@@ -40,3 +40,4 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 86
+[16-Sep-2021 05:39:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 39
