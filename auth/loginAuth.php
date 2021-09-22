@@ -9,37 +9,35 @@ if(isset($_POST["email"]) && isset($_POST["pwd"])
 
 
     $email = $_POST["email"];
-    $pwd = $_POST["pwd"];
+    $password = $_POST["pwd"];
 
     
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) { //Email 구문 검사
  
-        $stmt = $conn -> prepare("SELECT * FROM users WHERE email = :email");
-        $stmt -> execute(array(":email" => $email));
+        $stmt = $conn -> prepare("SELECT * FROM users WHERE email=?");
+        $stmt -> execute(array($email));
         $user = $stmt -> fetch();
 
+        
+        $db_email = $user['email'];
+        $db_password = $user['password'];
+        $db_username = $user['username'];
 
-        $email = $user["Email"];
-        $pwd = $user["pwd"];
-        $username = $user["name"];
+        
+        if ($email == $db_email) {
+            if ($password == $db_password) {
+                $_SESSION["email"] = $db_email;
+                $_SESSION["username"] = $db_username;
 
-
-        if ($email === $email) {
-            if ($pwd === $pwd) {
-                $_SESSION["email"] = $email;
-                $_SESSION["username"] = $username;
-
-                header("Location: ../index.php");
+                header("Location: ../view/main.php");
             }
         }
         
     } else {
         header("Location: ../view/login.php?error=Incorrect User name or password&email=$email");
-
     }
 
 
 } else {
     header("Location: ../view/login.php?error=Enter the User name or password&email");
 }
-?>

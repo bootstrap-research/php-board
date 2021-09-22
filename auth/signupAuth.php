@@ -8,6 +8,7 @@ $username = $_POST["username"];
 $email = $_POST["email"];
 $pwd = $_POST["password"];
 $Confirmpassword = $_POST["Confirmpassword"];
+$date = date("Y-m-d H:i:s");
 
 if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
   echo("$email is a valid email address");
@@ -19,8 +20,8 @@ if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
         echo("$pwd is a not vaild password");
       }
 
-    $stmt = $conn -> prepare("INSERT INTO users (username, email, pwd) VALUES (:username, :email, :pwd)");
-    $stmt -> execute(array(":username" => $username, ":email" => $email, ":pwd" => $pwd));
+    $stmt = $conn -> prepare("INSERT INTO users (username, email, password, create_at) VALUES (?, ?, ?, ?)");
+    $stmt -> execute(array($username, $email, $pwd, $date));
     header("Location:../view/main.php");
   
   } else {    
