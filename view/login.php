@@ -27,7 +27,7 @@
 
                         <div class="form-floating mb-2">
                             <input type="password" class="form-control rounded-3" required="required" 
-                            id="floatingPassword" placeholder="Password" name="pwd">
+                            id="floatingPassword" placeholder="Password" name="password">
                             <label for="floatingPassword">Password</label>
                         </div>
 

@@ -4,12 +4,12 @@ session_start();
 require "../config/db_connect.php";
 
 
-if(isset($_POST["email"]) && isset($_POST["pwd"]) 
-    && !empty($_POST["email"]) && !empty($_POST["pwd"])) {
+if(isset($_POST["email"]) && isset($_POST["password"]) 
+    && !empty($_POST["email"]) && !empty($_POST["password"])) {
 
 
     $email = $_POST["email"];
-    $pwd = $_POST["pwd"];
+    $password = $_POST["password"];
 
     
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) { //Email 구문 검사
@@ -19,13 +19,13 @@ if(isset($_POST["email"]) && isset($_POST["pwd"])
         $user = $stmt -> fetch();
 
 
-        $email = $user["Email"];
-        $pwd = $user["pwd"];
+        $email = $user["email"];
+        $password = $user["password"];
         $username = $user["name"];
 
 
         if ($email === $email) {
-            if ($pwd === $pwd) {
+            if ($password === $password) {
                 $_SESSION["email"] = $email;
                 $_SESSION["username"] = $username;
 

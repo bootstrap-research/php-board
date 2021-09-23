@@ -6,21 +6,21 @@
 
 $username = $_POST["username"];
 $email = $_POST["email"];
-$pwd = $_POST["password"];
+$password = $_POST["password"];
 $Confirmpassword = $_POST["Confirmpassword"];
 
 if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
   echo("$email is a valid email address");
 
-    if(filter_var($pwd === $Confirmpassword)) {
-      echo("$pwd is a vaild password");
+    if(filter_var($password === $Confirmpassword)) {
+      echo("$password is a vaild password");
 
     } else {
-        echo("$pwd is a not vaild password");
+        echo("$password is a not vaild password");
       }
 
-    $stmt = $conn -> prepare("INSERT INTO users (username, email, pwd) VALUES (:username, :email, :pwd)");
-    $stmt -> execute(array(":username" => $username, ":email" => $email, ":pwd" => $pwd));
+    $stmt = $conn -> prepare("INSERT INTO users (username, email, password) VALUES (:username, :email, :password)");
+    $stmt -> execute(array(":username" => $username, ":email" => $email, ":password" => $password));
     header("Location:../view/main.php");
   
   } else {    

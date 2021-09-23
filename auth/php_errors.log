@@ -121,3 +121,28 @@ Stack trace:
 [16-Sep-2021 05:36:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 7
 [16-Sep-2021 05:36:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 7
 [16-Sep-2021 05:36:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 7
+[17-Sep-2021 00:45:03 UTC] PHP Notice:  Undefined variable: conn in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:45:27 UTC] PHP Notice:  Undefined variable: conn in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:50:28 UTC] PHP Notice:  Undefined variable: conn in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:50:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:51:26 UTC] PHP Notice:  Undefined variable: conn in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:51:32 UTC] PHP Notice:  Undefined variable: conn in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
+[17-Sep-2021 00:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
