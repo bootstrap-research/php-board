@@ -97,3 +97,21 @@ Stack trace:
 #0 C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php(11): PDOStatement->execute(Array)
 #1 {main}
   thrown in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 11
+[23-Sep-2021 01:34:22 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:35:22 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:35:55 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:35:58 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:36:50 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:36:54 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:37:01 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:37:46 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 13
+[23-Sep-2021 01:37:56 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 01:43:21 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:22:02 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:22:34 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:22:36 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:24:19 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:26:07 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:26:37 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:27:12 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
+[23-Sep-2021 02:27:55 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\gyumi\Documents\GitHub\php-board\config\writesave.php on line 12
