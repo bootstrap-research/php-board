@@ -147,3 +147,4 @@ Stack trace:
 #0 {main}
   thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 17
 [23-Sep-2021 01:04:23 UTC] PHP Notice:  Undefined index: name in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 23
+[23-Sep-2021 02:52:55 UTC] PHP Notice:  Undefined index: name in C:\Users\gyumi\Documents\GitHub\php-board\auth\loginAuth.php on line 23

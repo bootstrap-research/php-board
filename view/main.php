@@ -17,7 +17,7 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 
 
                     </ul>
@@ -34,9 +34,9 @@
         
         
         <div class="container">
-            <div class="row col-12">
+            <div class="row col-15">
                 
-                 <div class="card mt-5 me-3" style="width: 18rem;">
+                 <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -45,7 +45,7 @@
                         </div>
                 </div>
 
-                <div class="card mt-5 me-3" style="width: 18rem;">
+                <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -54,7 +54,7 @@
                         </div>
                 </div>
 
-                <div class="card mt-5 me-3" style="width: 18rem;">
+                <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -63,7 +63,7 @@
                         </div>
                 </div>
 
-                <div class="card mt-5 me-3" style="width: 18rem;">
+                <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -72,7 +72,7 @@
                         </div>
                 </div>
 
-                <div class="card mt-5 me-3" style="width: 18rem;">
+                <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -81,7 +81,7 @@
                         </div>
                 </div>
 
-                <div class="card mt-5 me-3" style="width: 18rem;">
+                <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -90,7 +90,7 @@
                         </div>
                 </div>
 
-                <div class="card mt-5 me-3" style="width: 18rem;">
+                <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -99,7 +99,7 @@
                         </div>
                 </div>
 
-                <div class="card mt-5 me-3" style="width: 18rem;">
+                <div class="card mt-5 ms-3" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
