@@ -1,0 +1,22 @@
+
+#card_title {
+    overflow: hidden; 
+    text-overflow: ellipsis; /*말 줄임*/
+    display: -webkit-box; 
+    -webkit-line-clamp: 1; /* 라인수 */
+    -webkit-box-orient: vertical; /*세로 정렬*/
+    word-wrap: break-word; /*자동 줄바꿈*/
+    line-height: 1.5em;
+    height: 1.5em; 
+}
+
+#card_contents {
+    overflow: hidden; 
+    text-overflow: ellipsis; /*말 줄임*/
+    display: -webkit-box; 
+    -webkit-line-clamp: 4; /* 라인수 */
+    -webkit-box-orient: vertical; /*세로 정렬*/
+    word-wrap:break-word; /*자동 줄바꿈*/
+    line-height: 2em;
+    height: 6em; 
+}
