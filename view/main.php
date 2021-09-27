@@ -3,7 +3,8 @@
 <head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
         rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-   <title>Main - Blog</title>
+        <link rel="stylesheet" href="mainStyle.css">
+        <title>Main - Blog</title>
    <meta charset="utf-8">
 </head>
 <body class="">
@@ -40,20 +41,23 @@
             $boardResult = $stmt -> fetchAll();
         ?>
         
-        <div class="container">
-            <div class="row col-15">
+        <div class="container-fluid">
+            <div class="row g-col-15 p-5">
 
                 <?php foreach($boardResult as $boardRow) { ?>
                 
-                <div class="card mt-5 ms-3" style="width: 18rem;">
-                    <img src="" class="card-img-top" alt="">
+                <div class="card m-2 shadow-lg" style="width: 17.85rem; height: 220px;">
 
-                    <div class="card-body">
-                        <h5 class="card-title"><?php echo $boardRow['title'] ?></h5>
-                        <p class="card-text"><?php echo $boardRow['contents'] ?></p>
+                    <div class="card-body ">
+
+                        <h5 class="card-title fw-bold" id="card_title"><?php echo $boardRow['title'] ?></h5>
+                        <p class="card-text lh-base" id="card_contents"><?php echo $boardRow['contents'] ?></p>
                         
-                        <a href="..view/detailpage.php" class="btn btn-dark">detail Page</a>
+                        <!-- <a href="detailpage.php" class="btn btn-dark">detail Page</a> -->
+                        
                     </div>
+                    
+                
                 </div>
                 
                 <?php } ?>

@@ -41,3 +41,88 @@ Stack trace:
 #0 {main}
   thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 86
 [16-Sep-2021 05:39:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 39
+[24-Sep-2021 06:20:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 58
+[24-Sep-2021 06:22:10 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 48
+[24-Sep-2021 06:22:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 48
+[24-Sep-2021 06:22:10 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 49
+[24-Sep-2021 06:22:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 49
+[24-Sep-2021 06:22:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 48
+[24-Sep-2021 06:22:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 48
+[24-Sep-2021 06:22:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 49
+[24-Sep-2021 06:22:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 49
+[24-Sep-2021 06:22:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 46
+[24-Sep-2021 06:22:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 46
+[24-Sep-2021 06:22:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 06:22:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 06:23:21 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 42
+[24-Sep-2021 06:23:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 42
+[24-Sep-2021 06:23:21 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 43
+[24-Sep-2021 06:23:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 43
+[24-Sep-2021 06:23:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 42
+[24-Sep-2021 06:23:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 42
+[24-Sep-2021 06:23:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 43
+[24-Sep-2021 06:23:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 43
+[24-Sep-2021 06:23:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 42
+[24-Sep-2021 06:23:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 42
+[24-Sep-2021 06:23:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 43
+[24-Sep-2021 06:23:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 43
+[24-Sep-2021 06:27:36 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 40
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 51
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Undefined variable: boardNum_row in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 07:47:25 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 52
+[24-Sep-2021 09:17:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 45
+[24-Sep-2021 09:17:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 45
+[24-Sep-2021 09:17:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 50
+[24-Sep-2021 09:17:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 50
+[24-Sep-2021 09:18:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 45
+[24-Sep-2021 09:18:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 45
+[24-Sep-2021 09:18:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 50
+[24-Sep-2021 09:18:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 50
+[24-Sep-2021 09:25:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 57
+[24-Sep-2021 09:26:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 57
+[24-Sep-2021 09:26:14 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 42
+[24-Sep-2021 09:26:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:26:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:26:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:26:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:27:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:30:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:30:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:30:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:30:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:31:58 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:31:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
+[24-Sep-2021 09:31:58 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[24-Sep-2021 09:31:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52

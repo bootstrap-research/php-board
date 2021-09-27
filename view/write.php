@@ -26,7 +26,7 @@
 	
 	<div style="min-width: 450px" class="rounded-3 border border-1 shadow-lg w-75 h-75 p-5 position-absolute top-50 start-50 translate-middle">
 	
-		<form action="../config/writesave.php" method="post">
+		<form action="/Auth/writesave.php" method="post">
 
 		
 				<div class="mb-3">

@@ -1,10 +1,10 @@
 <?php
 session_start();
 
-require "../config/db_connect.php";
+require "../config/db_connect.php";     //DB 
 
 
-if(isset($_POST["email"]) && isset($_POST["password"]) 
+if(isset($_POST["email"]) && isset($_POST["password"])              //공복 검사
     && !empty($_POST["email"]) && !empty($_POST["password"])) {
 
 
@@ -14,7 +14,7 @@ if(isset($_POST["email"]) && isset($_POST["password"])
     
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) { //Email 구문 검사
  
-        $stmt = $conn -> prepare("SELECT * FROM users WHERE email=?");
+        $stmt = $conn -> prepare("SELECT * FROM users WHERE email=?"); 
         $stmt -> execute(array($email));
         $user = $stmt -> fetch();
 
@@ -23,7 +23,7 @@ if(isset($_POST["email"]) && isset($_POST["password"])
         $username = $user["name"];
 
 
-        if ($email === $email) {
+        if ($email === $email) {            //같은지 비교 
             if ($password === $password) {
                 $_SESSION["email"] = $email;
                 $_SESSION["username"] = $username;
@@ -33,7 +33,7 @@ if(isset($_POST["email"]) && isset($_POST["password"])
         }
         
     } else {
-        header("Location: ../view/login.php?error=Incorrect User name or password&email=$email");
+        header("Location: ../view/login.php?error=Incorrect User name or password&email");
     }
 
 

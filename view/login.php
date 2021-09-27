@@ -13,9 +13,9 @@
 </head>
     <body>
 
-            <div style="min-width: 450px" class="rounded-3 border border-1 shadow-lg w-25 p-5 position-absolute top-50 start-50 translate-middle">
+        <form action="../auth/loginAuth.php" method="post">
 
-                <form action="../auth/loginAuth.php" method="post">
+            <div style="min-width: 450px" class="rounded-3 border border-1 shadow-lg w-25 p-5 position-absolute top-50 start-50 translate-middle">
 
                     <h3 class="mb-2">Log in</h3>
 
@@ -40,10 +40,10 @@
                             <input class="form-check-input" type="checkbox"  id="flexCheckDefault">
                             <label class="form-check-label" for="flexCheckDefault">Remember Me!</label>
                         </div>
-                </form>
-
+                        
             </div>
-
+                    
+        </form>
 
 </body>
 </html>
