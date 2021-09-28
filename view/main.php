@@ -22,13 +22,17 @@
 
 
                     </ul>
-                        <form action="/view/write.php" class="d-flex" style="margin-right: 1%;">
+                            <form action="/view/write.php" class="d-flex" style="margin-right: 1%;">
                             <button class="btn btn-dark" type="submit">Write</button>
+                            </form>
+
+                            <form action="/view/modify.php" class="d-flex" style="margin-right: 1%;">
+                            <button class="btn btn-dark" type="submit">Modify</button>
                             </form>
                     
                             <form action="../auth/logout.php" class="d-flex" >
                             <button class="btn btn-dark" type="submit">Logout</button>
-                        </form>
+                            </form>
                 </div>
             </div>
         </nav>
@@ -58,9 +62,9 @@
                         
                     </div>
                     
-                    <ul class="list-group list-group-flush"> 
+                    <!-- <ul class="list-group list-group-flush"> 
                     <li class="list-group-item">asdfghyujkl</li>
-                    <ul>
+                    <ul> -->
                 
                 </div>
                 
@@ -73,7 +77,8 @@
         
 </body>
 </html>
-http://raonlast.dothome.co.kr/index.php?page=1#
+
+<!-- http://raonlast.dothome.co.kr/index.php?page=1#
 <?php foreach($boardNum_data as $boardNum_row): ?>
         <div class="col  mh-5" style="margin-left: 2%; margin-top: 5%; max-width: 320px;">
             <a href="./view/board/boardPage.php?board_id=<?php echo $boardNum_row['board_auto_incre'];?>" style="text-decoration: none; text-color: none;">
@@ -93,4 +98,4 @@ http://raonlast.dothome.co.kr/index.php?page=1#
                 <a href="#" class="list-group-item list-group-item-action list-group-item-secondary">by <?php echo $boardNum_row['writer'];  ?></a>
             </div>
         </div>
-        <?php endforeach ?>
+        <?php endforeach ?> -->
