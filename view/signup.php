@@ -25,6 +25,12 @@
                     </div>
 
                     <div class="form-floating mb-2">
+                        <input type="text" class="form-control" name="phone" 
+                            id="floatingUserId" placeholder="Phone" required="required">
+                        <label for="floatingUserId">Phone Number</label>
+                    </div>
+
+                    <div class="form-floating mb-2">
                         <input type="password" class="form-control" name="password"
                             id="floatingPassword" placeholder="Password" required="required">
                         <label for="floatingPassword">Password</label>
