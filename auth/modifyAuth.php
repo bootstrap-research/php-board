@@ -10,6 +10,8 @@
     $newpassword = $_POST["newpassword"];
     $Confirmpassword = $_POST["Confirmpassword"];
 
+    $userId = $_SESSION['userId'];
+
         if (filter_var($email, FILTER_VALIDATE_EMAIL)) {      //유효성 검사(email 구문 확인)
         echo("$email is a valid email address");
 
@@ -22,13 +24,18 @@
         }
 
         
-        $stmt = $conn -> prepare("UPDATE users SET username = '$username', email = '$email' password = '$newpassword' WHERE email = 1");     //SQL INSERT문 
-        $stmt -> execute(array($username, $email, $newpassword));
+        $stmt = $conn -> prepare("UPDATE users SET username=:username, email=:email, password=:pwd WHERE user_id=:userId");     //SQL INSERT문 
+        $stmt -> execute(array(':username' => $username, ':email' => $email, ':pwd' => $newpassword, ':userId' => $userId));
+
+        $_SESSION['username'] = $username;
+        $_SESSION['email'] = $email;
+
         header("Location:../view/modify.php");
         
     } else {    
         echo("$email is not a valid email address");
     }
+
   
   ?>
 

@@ -33,14 +33,14 @@
 
                     <div class="form-floating mb-2">
                         <input type="password" class="form-control" name="newpassword"
-                            id="floatingPassword" placeholder="Password" ">
+                            id="floatingPassword" placeholder="Password" value="echo">
                         <label for="floatingPassword"> New Password</label>
                     </div>
 
                     <div class="form-floating mb-1">
                         <input type="password" class="form-control" name="Confirmpassword"
-                            id="floatingPassword" placeholder="Password" ">
-                        <label for="floatingConfirmPassword">ConfirmPassword</label>
+                            id="floatingPassword" placeholder="Password" >
+                        <label for="floatingConfirmPassword">Confirm Password</label>
                     </div>
 
                     <div class="row">
