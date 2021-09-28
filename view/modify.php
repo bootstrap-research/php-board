@@ -12,9 +12,10 @@
 
                 <h3 class="mb-2">Edit info</h3>
 
-                    <div class="form-floating mb-2">
+
+                <div class="form-floating mb-2">
                         <input type="text" class="form-control" name="username" 
-                            id="floatingUserId" placeholder="UserId" >
+                            id="floatingUserId" placeholder="UserId" required="required">
                         <label for="floatingUserId">UserName</label>
                     </div>
 
@@ -31,18 +32,21 @@
                     </div>
 
                     <div class="form-floating mb-2">
-                        <input type="password" class="form-control" name="New_password"
-                            id="floatingPassword" placeholder="Password" required="required">
+                        <input type="password" class="form-control" name="newpassword"
+                            id="floatingPassword" placeholder="Password" ">
                         <label for="floatingPassword"> New Password</label>
                     </div>
 
                     <div class="form-floating mb-1">
                         <input type="password" class="form-control" name="Confirmpassword"
-                            id="floatingPassword" placeholder="Password" required="required">
+                            id="floatingPassword" placeholder="Password" ">
                         <label for="floatingConfirmPassword">ConfirmPassword</label>
                     </div>
 
-                    <button type="submit" class="btn btn-dark w-100">Save</button>
+                    <div class="row">
+                            <button type="submit" class="btn btn-dark col ms-3" >Save</button>
+                            <a href="../view/main.php" class="btn btn-dark col ms-2 me-3" id="liveAlertBtn">Cancle</a>
+                    </div>
             
             </div>
 
