@@ -31,8 +31,8 @@ if(isset($_POST["email"]) && isset($_POST["password"])              //공복 검
 
                 header("Location: ../view/main.php");
             } else {
-                echo("<script>alert('Wrong Password');</script>");
-                header("Location: ../view/login.php");
+                echo("<script>alert('Enter the valid Password! ');</script>");
+                // header("Location: ../view/login.php");
             }
         }
         
