@@ -22,12 +22,14 @@ if(isset($_POST["email"]) && isset($_POST["password"])              //공복 검
         $user_email = $user["email"];
         $user_password = $user["password"];
         $user_username = $user["username"];
+        $user_id = $user['user_id'];
 
 
         if ($email === $user_email) {            //같은지 비교 
             if ($password === $user_password) {
                 $_SESSION["email"] = $user_email;
                 $_SESSION["username"] = $user_username;
+                $_SESSION["userId"] = $user_id;
 
                 header("Location: ../view/main.php");
             } else {

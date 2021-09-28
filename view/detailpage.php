@@ -33,23 +33,25 @@
         
         require "../config/db_connect.php";
 
-        $stmt = $conn -> prepare("SELECT * FROM board");
+        $board_id = $_GET['board_id'];
+
+        $stmt = $conn -> prepare("SELECT * FROM board WHERE user_id=$board_id");
         $stmt -> execute();
-        $boardResult = $stmt -> fetchAll();
+        $boardResult = $stmt -> fetch();
 
         ?>
 
         <?php ?>
 
             <div>
-                <p>Title</p> 
-                <div class="rounded-3 border border-1 shadow-lg w-100 mb-4 p-1">
-                    <?php echo $boardRow["title"] ?>
+                <p>Title</p>  
+                <div class="rounded-3 border border-1 shadow-lg w-100 mb-4 p-2">
+                    <?php echo $boardResult["title"] ?>
                 </div>
 
                 <p calss="">Contents</p>
-                <div class="rounded-3 border border-1 shadow-lg w-100 p-1" style="height: 450px;">
-                    <?php echo $boardRow["contents"] ?>
+                <div class="rounded-3 border border-1 shadow-lg w-100 p-2" style="height: 440px;">
+                    <?php echo $boardResult["contents"] ?>
                 </div>
 
             </div>
