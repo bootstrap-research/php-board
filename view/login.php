@@ -36,10 +36,10 @@
                             <a href="signup.php" class="btn btn-dark col ms-2 me-3">Sign up</a>
                         </div>
 
-                        <div class="form-check mt-1">
+                        <!-- <div class="form-check mt-1">
                             <input class="form-check-input" type="checkbox"  id="flexCheckDefault">
                             <label class="form-check-label" for="flexCheckDefault">Remember Me!</label>
-                        </div>
+                        </div> -->
                         
             </div>
                     

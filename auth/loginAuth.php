@@ -19,6 +19,7 @@ if(isset($_POST["email"]) && isset($_POST["password"])              //공복 검
         $stmt -> execute(array($email));
         $user = $stmt -> fetch();
 
+        
         $user_email = $user["email"];
         $user_password = $user["password"];
         $user_username = $user["username"];
@@ -33,7 +34,7 @@ if(isset($_POST["email"]) && isset($_POST["password"])              //공복 검
 
                 header("Location: ../view/main.php");
             } else {
-                echo("<script>alert('Enter the valid Password! ');</script>");
+                echo("<script>alert(' Enter the valid Password! '); location.replace('../view/login.php');</script>");
                 // header("Location: ../view/login.php");
             }
         }
