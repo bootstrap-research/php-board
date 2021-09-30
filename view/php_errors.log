@@ -126,3 +126,187 @@ Stack trace:
 [24-Sep-2021 09:31:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 47
 [24-Sep-2021 09:31:58 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
 [24-Sep-2021 09:31:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\detailpage.php on line 52
+[29-Sep-2021 01:55:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 01:59:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php:50
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\main.php(50): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 50
+[29-Sep-2021 02:01:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031 No data supplied for parameters in prepared statement in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:21
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 21
+[29-Sep-2021 02:01:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031 No data supplied for parameters in prepared statement in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:21
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 21
+[29-Sep-2021 02:17:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031 No data supplied for parameters in prepared statement in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:21
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 21
+[29-Sep-2021 02:17:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031 No data supplied for parameters in prepared statement in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:21
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 21
+[29-Sep-2021 02:18:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031 No data supplied for parameters in prepared statement in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:21
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 21
+[29-Sep-2021 02:19:24 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:19:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM b...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:22:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:18 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:32 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:37 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:37 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:22:57 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:22:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM b...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:23:35 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:23:35 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:23:35 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:23:35 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:23:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:23:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:23:47 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:23:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM b...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:24:36 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:24:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 02:24:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<br /><b>Notice</b>:  Undefined variable: boardRow in <b>C:\Users\gyumi\Documen' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM b...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:25:22 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:25:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM b...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:29:36 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:29:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM b...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:30:01 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:30:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:30:10 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:30:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:30:49 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:30:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:31:21 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:31:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:31:22 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:31:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:31:32 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:31:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:31:39 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:31:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:31:41 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:31:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:32:00 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:32:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:32:14 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:32:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:32:20 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:32:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:32:21 UTC] PHP Notice:  Undefined index: board_id in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 20
+[29-Sep-2021 02:32:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php:22
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php(22): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 22
+[29-Sep-2021 02:33:04 UTC] PHP Notice:  Undefined variable: boardResult in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 33
+[29-Sep-2021 02:33:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 33
+[29-Sep-2021 02:33:04 UTC] PHP Notice:  Undefined variable: boardResult in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 43
+[29-Sep-2021 02:33:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 43
+[29-Sep-2021 02:35:56 UTC] PHP Notice:  Undefined variable: boardResult in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 33
+[29-Sep-2021 02:35:56 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 33
+[29-Sep-2021 02:35:56 UTC] PHP Notice:  Undefined variable: boardResult in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 43
+[29-Sep-2021 02:35:56 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 43
+[29-Sep-2021 06:59:01 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 06:59:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 06:59:01 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 06:59:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 06:59:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 06:59:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:00:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:00:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:00:07 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:00:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:02:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:02:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:02:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:02:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:02:50 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:02:50 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:59:12 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 07:59:12 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\main.php on line 25
+[29-Sep-2021 08:00:15 UTC] PHP Notice:  Undefined variable: boardResult in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 55
+[29-Sep-2021 08:00:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 55
+[29-Sep-2021 08:00:15 UTC] PHP Notice:  Undefined variable: boardResult in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 65
+[29-Sep-2021 08:00:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 65

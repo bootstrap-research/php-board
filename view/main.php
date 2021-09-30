@@ -64,7 +64,7 @@
                         <h5 class="card-title fw-bold" id="card_title"><?php echo $boardRow['title'] ?></h5>
                         <p class="card-text lh-base" id="card_contents"><?php echo $boardRow['contents'] ?></p>
                         
-                        <a href="detailpage.php?board_id=<?php echo $boardRow['user_id'] ?>" class="btn btn-dark">detail Page</a>
+                        <a href="detail.php?board_id=<?php echo $boardRow['user_id'] ?>" class="btn btn-dark">detail Page</a>
 
                         
                     </div>
@@ -85,24 +85,3 @@
 </body>
 </html>
 
-<!--    
-<?php foreach($boardNum_data as $boardNum_row): ?>
-        <div class="col  mh-5" style="margin-left: 2%; margin-top: 5%; max-width: 320px;">
-            <a href="./view/board/boardPage.php?board_id=<?php echo $boardNum_row['board_auto_incre'];?>" style="text-decoration: none; text-color: none;">
-                <div class="card">
-                
-                    <!-- <img src="./view/img/php.png" class="card-img-top" alt="..."> -->
-                    
-                    <div class="card-body">
-                    <h5 class="card-title fw-bold" id="card_title"><?php echo $boardNum_row['title']; ?></h5>
-                    <p class="card-text lh-base" id="card_content"><?php echo $boardNum_row['content']; ?></p>
-                    </div>
-                
-                </div>
-            </a>
-            
-            <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action list-group-item-secondary">by <?php echo $boardNum_row['writer'];  ?></a>
-            </div>
-        </div>
-        <?php endforeach ?> -->
