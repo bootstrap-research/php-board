@@ -30,13 +30,17 @@
                         <label for="floatingUserId">Phone Number</label>
                     </div>
 
-                    <div class="form-floating mb-2">
+                    <div class="form-floating ">
                         <input type="password" class="form-control" name="password"
                             id="floatingPassword" placeholder="Password" required="required">
                         <label for="floatingPassword">Password</label>
                     </div>
+                    
+                    <div>
+                    Enter at least one number, uppercase letter, lowercase letter, special letter.
+                    </div>
 
-                    <div class="form-floating mb-1">
+                    <div class="form-floating mb-1 mt-2">
                         <input type="password" class="form-control" name="Confirmpassword"
                             id="floatingPassword" placeholder="Password" required="required">
                         <label for="floatingConfirmPassword">ConfirmPassword</label>
@@ -52,3 +56,4 @@
 
 </body>
 </html>
+
