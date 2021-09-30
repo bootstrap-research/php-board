@@ -29,14 +29,14 @@
 		<form action="/Auth/writesave.php" method="post">
 
 		
-				<div class="mb-3">
+				<div class="mb-3 shadow-sm">
 					<label for="floatinginputarea" class="form-label">Title</label>
 					<input type="text" class="form-control" id="floatinginputarea" 
 						placeholder="Enter the title!" name="title">
 				</div>
 			
 			
-				<div class="mb-3">
+				<div class="mb-3 shadow-sm">
 					<label for="floatingTextarea" class="form-label">contents</label>
 					<textarea class="form-control" id="floatingTextarea" 
 						style="height: 480px" name="contents"></textarea>
