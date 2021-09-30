@@ -29,6 +29,7 @@
             <button type="submit" class="btn-close mb-3" "></button>
         </form>
 
+
         <?php 
         
         require "../config/db_connect.php";
@@ -41,21 +42,21 @@
 
         ?>
 
-        <?php ?>
 
-            <div>
+
+            <div class="mb-2">
                 <p>Title</p>  
-                <div class="rounded-3 border border-1 shadow-lg w-100 mb-4 p-2">
+                <div class="rounded-3 border border-1 shadow-sm w-100 mb-4 p-2">
                     <?php echo $boardResult["title"] ?>
                 </div>
 
                 <p calss="">Contents</p>
-                <div class="rounded-3 border border-1 shadow-lg w-100 p-2" style="height: 440px;">
+                <div class="rounded-3 border border-1 shadow-sm w-100 p-2" style="height: 440px;">
                     <?php echo $boardResult["contents"] ?>
                 </div>
 
             </div>
 
-        </div>
+    </div>
 
 </body>
