@@ -25,6 +25,10 @@
                 <a class="nav-link active" aria-current="page" href="../view/modify.php">Modify</a>
                 </li>
 
+                <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="../view/album.php">Album</a>
+                </li>
+
                 </ul>
 
 
