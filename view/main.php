@@ -10,13 +10,13 @@
 <body class="">
     
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-            <div class="container-fluid">
+        <div class="container-fluid">
 
-                <a class="navbar-brand" href="/view/main.php">PHP-BOARD</a>
+            <a class="navbar-brand" href="/view/main.php">PHP-BOARD</a>
 
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
 
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -37,20 +37,23 @@
 
 
 
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 
 
-                    </ul>
-                            <form action="/view/write.php" class="d-flex" style="margin-right: 1%;">
-                            <button class="btn btn-dark" type="submit">Write</button>
-                            </form>
-                    
-                            <form action="../auth/logout.php" class="d-flex" >
-                            <button class="btn btn-dark" type="submit">Logout</button>
-                            </form>
-                </div>
+                </ul>
+
+                <form action="/view/write.php" class="d-flex" style="margin-right: 1%;">
+                <button class="btn btn-dark" type="submit">Write</button>
+                </form>
+        
+                <form action="../auth/logout.php" class="d-flex" >
+                <button class="btn btn-dark" type="submit">Logout</button>
+                </form>
+
             </div>
-        </nav>
+
+        </div>
+    </nav>
         
         <?php 
             require "../config/db_connect.php";
