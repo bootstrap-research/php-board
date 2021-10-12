@@ -31,8 +31,15 @@
     <h4>File upload</h4>
 
         <div class="m-1" id="file_upload">
-            <form action="uploadAuth.php" method="post" enctype="multipart/form-data" >
-            <input type="file" name="file_upload" class="btn btn-dark col">
+            <!-- <form action="../auth/uploadAuth.php" method="post" enctype="multipart/form-data" >
+            <input type="file" name="file_upload" id="file_upload" class="btn btn-dark col">
+            <button  class="btn btn-dark col m-1 p-2">Submit</button>
+            <input type="submit" value="Upload Image" name="submit">
+            </form> -->
+
+            <form enctype="multipart/form-data" action="../auth/uploadAuth.php" method="post">
+            <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
+            <input name="file_upload" id="file_upload" type="file" class="btn btn-dark col" />
             <button  class="btn btn-dark col m-1 p-2">Submit</button>
             </form>
         </div>
