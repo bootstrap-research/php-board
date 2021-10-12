@@ -4,7 +4,8 @@
             rel="stylesheet" 
             integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" 
             crossorigin="anonymous">
-    <title>Blog - Album</title>
+            <link rel="stylesheet" href="Style.css">
+    <title>Blog - upload</title>
 </head>
 <body>
 
@@ -25,14 +26,20 @@
         </div>
     </nav>
 
-    <form action="libraryAuth.php" method="post" enctype="multipart/form-data"> //
-    <label for="file">Filename:</label>
-    <input type="file" name="file" id="file"><br>
-    <input type="submit" name="submit" value="Submit">
-    </form>
+    <div style="min-width: 500px " class="rounded-3 border bordr-1 shadow-lg p-5 position-absolute top-50 start-50 translate-middle">
 
+    <h4>File upload</h4>
 
+        <div class="m-1" id="file_upload">
+            <form action="uploadAuth.php" method="post" enctype="multipart/form-data" >
+            <input type="file" name="file_upload" class="btn btn-dark col">
+            <button  class="btn btn-dark col m-1 p-2">Submit</button>
+            </form>
+        </div>
 
+    </div>
+
+    
 
     
 </body>
