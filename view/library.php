@@ -4,7 +4,7 @@
             rel="stylesheet" 
             integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" 
             crossorigin="anonymous">
-    <title>Blog - Album</title>
+    <title>Blog - Library</title>
 </head>
 <body>
 
@@ -41,7 +41,7 @@
                 </ul>
 
                 <form action="/view/upload.php" class="d-flex" style="margin-right: 1%;">
-                <button class="btn btn-dark" type="submit">upload</button>
+                <button class="btn btn-dark" type="submit">Upload</button>
                 </form> 
                 
                 <form action="/view/write.php" class="d-flex" style="margin-right: 1%;">
@@ -57,12 +57,7 @@
 
         </div>
     </nav>
-
-    <form action="libraryAuth.php" method="post" enctype="multipart/form-data"> //
-    <label for="file">Filename:</label>
-    <input type="file" name="file" id="file"><br>
-    <input type="submit" name="submit" value="Submit">
-    </form>
+    
 
 
 
