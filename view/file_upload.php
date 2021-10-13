@@ -5,7 +5,7 @@
             integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" 
             crossorigin="anonymous">
             <link rel="stylesheet" href="Style.css">
-    <title>Blog - upload</title>
+    <title>Blog - Upload File</title>
 </head>
 <body>
 
@@ -38,7 +38,7 @@
             </form> -->
 
             <form enctype="multipart/form-data" action="../auth/uploadAuth.php" method="post">
-            <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
+            <input type="hidden" name="file_upload" id="file_upload" class="btn btn-dark col"/>
             <input name="file_upload" id="file_upload" type="file" class="btn btn-dark col" />
             <button  class="btn btn-dark col m-1 p-2">Submit</button>
             </form>
