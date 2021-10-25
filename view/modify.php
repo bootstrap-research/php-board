@@ -68,13 +68,13 @@
                         </div>
 
 
-                        <!-- <div class="form-floating mb-2">
+                        <div class="form-floating mb-2">
 
                             <input type="password" class="form-control" name="password"
                                 id="floatingPassword" placeholder="Password" required="required">
 
                             <label for="floatingPassword">Password</label>
-                        </div> -->
+                        </div>
 
 
                         <div class="form-floating mb-2">

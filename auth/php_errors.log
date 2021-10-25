@@ -195,3 +195,57 @@ Stack trace:
   thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\modifyAuth.php on line 20
 [29-Sep-2021 08:04:28 UTC] PHP Notice:  Array to string conversion in C:\Users\gyumi\Documents\GitHub\php-board\auth\modifyAuth.php on line 24
 [29-Sep-2021 08:04:46 UTC] PHP Notice:  Array to string conversion in C:\Users\gyumi\Documents\GitHub\php-board\auth\modifyAuth.php on line 24
+[12-Oct-2021 01:47:14 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 9
+[12-Oct-2021 01:50:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 42
+[12-Oct-2021 01:50:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 42
+[12-Oct-2021 02:23:31 UTC] PHP Warning:  move_uploaded_file(upload/095file_99989 (4).png): failed to open stream: No such file or directory in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 43
+[12-Oct-2021 02:23:31 UTC] PHP Warning:  move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpB2D8.tmp' to 'upload/095file_99989 (4).png' in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 43
+[12-Oct-2021 02:23:41 UTC] PHP Warning:  move_uploaded_file(upload/095file_99989 (4).png): failed to open stream: No such file or directory in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 43
+[12-Oct-2021 02:23:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpD7C6.tmp' to 'upload/095file_99989 (4).png' in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 43
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Undefined variable: path_parts in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 4
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 4
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Undefined variable: path_parts in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 5
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 5
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Undefined variable: path_parts in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 6
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 6
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Undefined variable: path_parts in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 7
+[12-Oct-2021 03:00:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 7
+[13-Oct-2021 06:38:13 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 50
+[13-Oct-2021 06:43:24 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\gyumi\Documents\GitHub\php-board\auth\uploadAuth.php on line 50
+[19-Oct-2021 02:34:04 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 3
+[19-Oct-2021 02:34:06 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 3
+[19-Oct-2021 02:34:32 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 3
+[19-Oct-2021 02:37:02 UTC] PHP Warning:  move_uploaded_file(C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2.png): failed to open stream: No such file or directory in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[19-Oct-2021 02:37:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpCE47.tmp' to 'C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2.png' in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[19-Oct-2021 02:37:09 UTC] PHP Warning:  move_uploaded_file(C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2 (1).png): failed to open stream: No such file or directory in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[19-Oct-2021 02:37:09 UTC] PHP Warning:  move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpEA3C.tmp' to 'C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2 (1).png' in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[19-Oct-2021 02:37:27 UTC] PHP Warning:  move_uploaded_file(C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2 (1).png): failed to open stream: No such file or directory in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[19-Oct-2021 02:37:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move 'C:\Windows\Temp\php2E4B.tmp' to 'C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2 (1).png' in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[19-Oct-2021 02:37:47 UTC] PHP Warning:  move_uploaded_file(C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2 (1).png): failed to open stream: No such file or directory in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[19-Oct-2021 02:37:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move 'C:\Windows\Temp\php7DC3.tmp' to 'C:\Users\gyumi\Documents\GitHub\php-board\upload_fileile2 (1).png' in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 44
+[25-Oct-2021 07:30:19 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:30:28 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:31:15 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:31:19 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:33:55 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:33:57 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:34:13 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:34:18 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:34:25 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE) in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:37:01 UTC] PHP Warning:  move_uploaded_file(./file/20211025073701): failed to open stream: No such file or directory in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 07:37:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpC7EA.tmp' to './file/20211025073701' in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 54
+[25-Oct-2021 09:16:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'filename' in 'field list' in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php:11
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php(11): PDO->prepare('INSERT INTO lib...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 11
+[25-Oct-2021 09:21:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'filename' in 'field list' in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php:12
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php(12): PDO->prepare('INSERT INTO lib...')
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 12
+[25-Oct-2021 09:22:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php:13
+Stack trace:
+#0 C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\Users\gyumi\Documents\GitHub\php-board\auth\file_uploadAuth.php on line 13

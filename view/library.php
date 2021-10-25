@@ -28,7 +28,7 @@
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="../view/library.php">Library</a>
+                <a class="nav-link active fw-bold" aria-current="page" href="../view/library.php">Library</a>
                 </li>
 
                 </ul>
@@ -76,7 +76,7 @@
                     <img src="../img/file.svg" class="card-img-top" style="width: 14rem; height: 140px;">
 
                     <h6 class="card-title fw-bold" id="card_title"><?php echo $fileRow['title'] ?></h6>
-                    <a href="detail.php?board_id=<?php echo $fileRow['user_id'] ?>" class="btn btn-dark mt-3">detail Page</a>
+                    <a href="detail.php?board_id=<?php echo $fileRow['user_id'] ?>" class="btn btn-dark mt-3">Download</a>
 
                     <div class="card-body">
                                         

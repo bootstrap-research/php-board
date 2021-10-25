@@ -24,7 +24,7 @@
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="../view/gallery.php">Gallery</a>
+                <a class="nav-link active fw-bold" aria-current="page" href="../view/gallery.php">Gallery</a>
                 </li>
 
                 <li class="nav-item">

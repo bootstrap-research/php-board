@@ -310,3 +310,871 @@ Stack trace:
 [29-Sep-2021 08:00:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 55
 [29-Sep-2021 08:00:15 UTC] PHP Notice:  Undefined variable: boardResult in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 65
 [29-Sep-2021 08:00:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\modify.php on line 65
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:38:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 90
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:44:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:48:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:40 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:30 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:50:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:51:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:52:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:39 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:54:59 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:55:57 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 92
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:56:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:09 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:57:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 78
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 79
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Undefined variable: boardRow in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
+[13-Oct-2021 07:58:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\Users\gyumi\Documents\GitHub\php-board\view\library.php on line 81
