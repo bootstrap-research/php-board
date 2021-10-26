@@ -19,7 +19,7 @@
 
 
                     </ul>
-                            <form action="/view/write.php" class="d-flex" style="margin-right: 1%;">
+                            <form action="../view/write.php" class="d-flex" style="margin-right: 1%;">
                             <button class="btn btn-dark" type="submit">Write</button>
                             </form>
                     

@@ -31,15 +31,10 @@
     <h4>Image upload</h4>
 
         <div class="m-1" id="file_upload">
-            <!-- <form action="../auth/image_uploadAuth.php" method="post" enctype="multipart/form-data" >
-            <input type="file" name="file_upload" id="file_upload" class="btn btn-dark col">
-            <button  class="btn btn-dark col m-1 p-2">Submit</button>
-            <input type="submit" value="Upload Image" name="submit">
-            </form> -->
 
-            <form enctype="multipart/form-data" action="../auth/image_uploadAuth.php" method="post">
+            <form enctype="multipart/form-data" action="../auth/img_uploadAuth.php" method="post">
 
-            <input name="image_upload" type="file" class="btn btn-dark col" />
+            <input name="img_upload" type="file" class="btn btn-dark col" />
             <button name="upload_submit" class="btn btn-dark col m-1 p-2">Submit</button>
 
             </form>

@@ -26,24 +26,9 @@
         </div>
     </nav>
 
-    <div style="min-width: 500px " class="rounded-3 border bordr-1 shadow-lg p-5 position-absolute top-50 start-50 translate-middle">
 
-    <h4>File upload</h4>
+       
 
-        <div class="m-1" id="file_upload">
 
-            <form enctype="multipart/form-data" action="../auth/file_uploadAuth.php" method="post">
-
-            <input name="file_upload" type="file" class="btn btn-dark col" />
-            <button name="upload_submit" class="btn btn-dark col m-1 p-2">Submit</button>
-
-            </form>
-        </div>
-
-    </div>
-
-    
-
-    
 </body>
 </html>

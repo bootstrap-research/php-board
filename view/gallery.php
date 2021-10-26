@@ -58,5 +58,45 @@
 
     </nav>
     
+    <?php 
+            require "../config/db_connect.php";
+
+            $stmt = $conn -> prepare("SELECT * FROM gallery");
+            $stmt -> execute();
+            $fileResult = $stmt -> fetchAll();
+        ?>
+        
+        <div class="container-fluid">
+            <div class="row g-col-15 p-5">
+
+                <?php foreach($fileResult as $fileRow) { ?>
+                    
+                <div class="card m-3 shadow-lg py-2 ps-2" style="width: 15rem; height: 240px;">
+
+                    <img src="../file.svg" class="card-img-top" style="width: 14rem; height: 140px;">
+
+                    <!-- <h6 class="card-title fw-bold" id="card_title"><?php echo $fileRow['title'] ?></h6>
+                    <a href="detail.php?board_id=<?php echo $fileRow['user_id'] ?>" class="btn btn-dark mt-3">Download</a> -->
+                    
+                    <h6 class="card-title fw-bold lh-base" style="max-hight 20px;" id="card_title"><?php echo $fileRow['ori_name'] ?></h6>
+                    <a href="img_download.php?file_id=<?php echo $fileRow['img_name'] ?>" class="btn btn-dark mt-2">Download</a>
+
+                    <div class="card-body">
+                                        
+                    </div>
+
+                </div>
+                                        
+                    <!-- <ul class="list-group list-group-flush"> 
+                    <li class="list-group-item">asdfghyujkl</li>
+                    <ul> -->
+                
+                <?php } ?>
+
+
+
+            </div>
+        </div>
+    
 </body>
 </html>
