@@ -4,6 +4,7 @@
             rel="stylesheet" 
             integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" 
             crossorigin="anonymous">
+            <link rel="stylesheet" href="Style.css">
     <title>Blog - Library</title>
 </head>
 <body>
@@ -73,13 +74,10 @@
                     
                 <div class="card m-3 shadow-lg py-2 ps-2" style="width: 15rem; height: 240px;">
 
-                    <img src="../file.svg" class="card-img-top" style="width: 14rem; height: 140px;">
-                    <h6 class="card-title fw-bold lh-base" style="max-hight 20px;" id="card_title"><?php echo $fileRow['ori_name'] ?></h6>
-                    <a href="file_download.php?file_id=<?php echo $fileRow['file_name'] ?>" class="btn btn-dark mt-2">Download</a>
+                    <img src="../file.svg" class="card-img-top" style="width: 14rem; height: 150px;">
+                    <h6 class="card-title fw-bold lh-base" id="card_title"><?php echo $fileRow['ori_name'] ?></h6>
+                    <a href="../auth/file_downloadAuth.php?file_id=<?php echo $fileRow['file_name'] ?>" class="btn btn-dark mt-1">Download</a>
 
-                    <div class="card-body">
-                                        
-                    </div>
 
                 </div>
                                         
