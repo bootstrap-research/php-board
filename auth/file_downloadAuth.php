@@ -1,34 +1,28 @@
-<!DOCTYPE html>
-<head>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
-            rel="stylesheet" 
-            integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" 
-            crossorigin="anonymous">
-            <link rel="stylesheet" href="Style.css">
-    <title>Blog - Upload File</title>
-</head>
-<body>
+<?php
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+require "../config/db_connect.php";
 
-        <div class="container-fluid">
-
-            <a class="navbar-brand" href="/view/main.php">PHP-BOARD</a>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-
-                </ul>
-
-            </div>
-
-        </div>
-    </nav>
+if(isset($_GET['filename'])) {
+    $filename = $_GET['filename'];
+    $stmt = $conn -> prepare("SELECT * FROM library where filename=?");
+    $stmt -> execute(array($filename));
+    $data = $stmt -> fetch();  
 
 
-       
+    $file = 'file/'.$data['filename'];
 
+    if(file_exists($file)){
+        header('Content-Description: '.$data['disposition'].'; filename ="'.basename($file).'"');
+        header('Content-Description: '.$data['description']);
+        header('Content-Lenght: '.filesize($file));
+        header('Content-Type: '.$data['type']);
+        header('Cache-Control: '.$data['cache']);
+        header('Expires: '.$data['expires']);
+        header('Pragma: '.$data['pregma']);
+        readfile($file);
+        exit;
+    }
 
-</body>
-</html>
+print_r();
+}
+?>

@@ -76,7 +76,7 @@
 
                     <img src="../file.svg" class="card-img-top" style="width: 14rem; height: 150px;">
                     <h6 class="card-title fw-bold lh-base" id="card_title"><?php echo $fileRow['ori_name'] ?></h6>
-                    <a href="../auth/file_downloadAuth.php?file_id=<?php echo $fileRow['file_name'] ?>" class="btn btn-dark mt-1">Download</a>
+                    <a href="../auth/file_downloadAuth.php?file_id=<?php echo $row['file_id'] ?>" class="btn btn-dark mt-1">Download</a>
 
 
                 </div>
