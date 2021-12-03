@@ -5,7 +5,7 @@ require "../config/db_connect.php";     //DB
 
 
 
-if(isset($_POST["email"]) && isset($_POST["password"])              //중복 검사
+if(isset($_POST["email"]) && isset($_POST["password"])              //공란 검사
     && !empty($_POST["email"]) && !empty($_POST["password"])) {
 
 
